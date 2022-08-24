@@ -1,0 +1,16 @@
+.hichart{
+    width: 300px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+.mobileApp{
+    position: relative;  
+    bottom: 1.5rem;
+}
+.saleChart{
+    position: relative;  
+    bottom: 1.5rem;
+}
+.mobileChart{
+    position: relative;  
+    bottom: 1.5rem;
+}
